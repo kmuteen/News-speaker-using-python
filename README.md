@@ -4,10 +4,10 @@ This is a python program built using some popular python modules, using the indi
 
 # Requirements
 
-=> Must have [Python](https://www.python.org/) installed in your Pc
-=> Json python Module
-=> Requests python Module 
-=> Pyttsx3 python Module
+-[x] Must have [Python](https://www.python.org/) installed in your Pc
+-[x] Json python Module
+-[x] Requests python Module 
+-[x] Pyttsx3 python Module
 
 You must have them all
 
